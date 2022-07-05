@@ -1,6 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif)](https://shironeko-homepage.vercel.app/)
 <h1 align="center">Hi 👋, I'm Overlord15</h1>
-<hr></hr>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
