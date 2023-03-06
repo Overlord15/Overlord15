@@ -1,4 +1,4 @@
-<div align="center">[![MasterHead](head.gif)](https://anupam-homepage.vercel.app/)</div>
+<p align="center"><a href="https://anupam-homepage.vercel.app/"><img src="head.gif"></a></p>
 
 <h1 align="center">Hi 👋, I'm Anupam Kumar Khamrai</h1>
 <h3 align="center">A passionate indie developer from India</h3>
