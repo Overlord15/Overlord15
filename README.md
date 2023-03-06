@@ -1,4 +1,4 @@
-[![MasterHead](head.gif)](https://anupam-homepage.vercel.app/)
+<div align="center">[![MasterHead](head.gif)](https://anupam-homepage.vercel.app/)</div>
 
 <h1 align="center">Hi 👋, I'm Anupam Kumar Khamrai</h1>
 <h3 align="center">A passionate indie developer from India</h3>
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/1khamrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1khamrai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anupam-kumar-khamrai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupam-kumar-khamrai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anupam" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19297525/anupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anupam" height="30" width="40" /></a>
 <a href="https://fb.com/anupam.khamrai.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anupam.khamrai.3" height="30" width="40" /></a>
 <a href="https://instagram.com/otaku_anupam_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otaku_anupam_k" height="30" width="40" /></a>
 </p>
@@ -26,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=overlord15&show_icons=true&locale=en&layout=compact" alt="overlord15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=overlord15&show_icons=true&locale=en" alt="overlord15" /></p>
-
